@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CameraClass</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="WhiteBalance">
+        <item>White Balance</item>
+        <item>CLOUDY DAYLIGHT</item>
+        <item>DAYLIGHT</item>
+        <item>FLUORESCENT</item>
+        <item>INCANDESCENT</item>
+        <item>SHADE</item>
+        <item>TWILIGHT</item>
+        <item>WARM FLUORESCENT</item>
+    </string-array>
+
+    <string-array name="SceneMode">
+        <item>Scene Mode</item>
+        <item>ACTION</item>
+        <item>BARCODE</item>
+        <item>BEACH</item>
+        <item>CANDLELIGHT</item>
+        <item>FIREWORKS</item>
+        <item>LANDSCAPE</item>
+        <item>NIGHT</item>
+        <item>NIGHT PORTRAIT</item>
+        <item>PARTY</item>
+        <item>PORTRAIT</item>
+        <item>SNOW</item>
+        <item>SPORTS</item>
+        <item>STEADY PHOTO</item>
+        <item>SUNSET</item>
+        <item>THEATRE</item>
+    </string-array>
+
+    <string-array name="FilterEffect">
+        <item>Filter Effects</item>
+        <item>AQUA</item>
+        <item>MONO</item>
+        <item>NEGATIVE</item>
+        <item>POSTERIZE</item>
+        <item>SEPIA</item>
+        <item>SOLARIZE</item>
+
+    </string-array>
+
+    <string name="title_activity_camera_surface">CameraSurface</string>
+
+</resources>
